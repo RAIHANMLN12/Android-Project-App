@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="beach">Beach</string>
+    <string name="mountain">Mountain</string>
+    <string name="flower">Flower</string>
+    <string name="forest">Forest</string>
+</resources>
